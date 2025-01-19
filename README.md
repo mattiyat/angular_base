@@ -1,6 +1,6 @@
 # AngularBase
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.2.
+This project is to serve as a easyt to spin up foundation to build a web app using Angular and Firebase. The goal being only to apply additional components ontop of this logic. 
 
 ## Development server
 
